@@ -1,4 +1,4 @@
-package com.ufrn.imd.websocket.model;
+package com.ufrn.imd.chatbotrest.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

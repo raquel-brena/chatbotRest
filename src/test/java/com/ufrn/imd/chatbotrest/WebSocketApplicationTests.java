@@ -1,4 +1,4 @@
-package com.ufrn.imd.websocket;
+package com.ufrn.imd.chatbotrest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.ufrn.imd.websocket;
+package com.ufrn.imd.chatbotrest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
